@@ -9,7 +9,7 @@ I'm a professional **Computer Engineer** with over 8 years of experience in **ba
 - 💬 Ask me about **backend development** and **web development**.
 - 📫 How to reach me: unvercanunlu [at] gmail [dot] com
 - 😄 Pronouns: he/him
-- ⚡ I love watching anime, cycling, playing video games, and listening music.
+- ⚡ I love watching animes, cycling, playing video games, and listening to music.
 
 ### 📫 Connect with Me
 
