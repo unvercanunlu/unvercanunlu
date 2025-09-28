@@ -8,7 +8,6 @@
 
 - Konum: İzmir, Türkiye (taşınmaya ve uzaktan çalışmaya açık)
 - E-posta: unvercanunlu [at] gmail [dot] com (tercih edilen iletişim kanalı)
-- Telefon: Talep üzerine paylaşılır
 - LinkedIn: [linkedin.com/in/unvercanunlu](https://www.linkedin.com/in/unvercanunlu)
 - GitHub: [github.com/unvercanunlu](https://github.com/unvercanunlu)
 
@@ -24,13 +23,13 @@
 
 ## İş Deneyimleri
 
-- Java Full-Stack Geliştirici | [TCS](https://www.tcs.com)  | Varşova, Polonya | 07/2023 – 04/2025 | Hibrit
+- Java Full-Stack Geliştirici | [TCS](https://www.tcs.com) | Varşova, Polonya | 07/2023 – 04/2025 | Hibrit
     * Ticari kredi kartı ödeme dosyalarını işleyen eski bir sistemin modernizasyonunda görev aldım: daha güvenli, düşük gecikmeli ve yüksek işlem
-      hacmine sahip, güncel teknolojilerle müşteri taleplerini karşılayan yeni bir sistemin geliştirilmesine ve teslimine katkı sağladım.
+      hacmine sahip, güncel teknolojilerle müşteri taleplerini karşılayan yeni bir sistemin geliştirilmesine/teslimine katkı sağladım.
     * Sorumluluklar: işlevsel doğrulama, dokümantasyon, hata giderme, güvenlik güncellemeleri, özel metriklerin uygulanması, metriklerin Prometheus
-      ile toplanması, standart/özel metrikler üzerinde PromQL sorguları ile anlamlandırıp Grafana’da gösterge panelleri oluşturma, alarm/uyarı
-      kurallarının yapılandırma, test yazımı ve Temporal ile mikroservis mimarisi tasarımı/geliştirme, felaket kurtarma (disaster recovery)
-      senaryolarının planlama.
+      ile toplanması, standart/özel metrikler üzerinde PromQL sorguları ile analiz edilip Grafana’da gösterge panellerinin oluşturulması, alarm/uyarı
+      kurallarının yapılandırılması, test yazımı, Temporal ile mikroservis mimarisinin tasarımı/geliştirilmesi, felaket kurtarma (disaster recovery)
+      senaryolarının planlanması.
 
 - Kıdemli Yazılım Mühendisi | [LTIMindtree](https://www.ltimindtree.com) | Kraków, Polonya | 11/2022 – 03/2023 | Hibrit
     * Kafka kullanarak olay odaklı (event-driven) mimariler için tasarım desenleri (design patterns) prototipleri geliştirdim.
@@ -51,15 +50,15 @@
 
 - Backend Geliştirici | [Caunos](https://www.caunos.com) | İzmir, Türkiye | 08/2019 – 07/2020 | Hibrit
     * Çeviri servisi ve lojistik raporlama olmak üzere iki ayrı projede backend geliştirme ekibinde yer aldım.
-    * Toplu veri içe/dışa aktarma, yığın işleme, REST API, zamanlanmış görevler/isler ve gösterge/kontrol paneli geliştirdim; SQL/HQL sorgularını
+    * Toplu veri içe/dışa aktarma, yığın işleme, REST API, zamanlanmış görevler/işler ve gösterge/kontrol paneli geliştirdim; SQL/HQL sorgularını
       optimize ederek performansı artırdım.
 
 - Entegrasyon Geliştirici | [Accenture](https://www.accenture.com) | İzmir, Türkiye | 01/2017 – 07/2019 | Ofis
     * Bir telekom şirketi için yüksek hacimli servis odaklı mimariye sahip orta katman geliştirme ekibinde görev aldım.
     * Bu uygulama, web servisleri arası mesajların kayıt altına alınması, kimlik doğrulama/yetkilendirme, isteğin/verinin doğrulanması, uygun formata
       dönüştürülmesi ve doğru servise yönlendirilmesi işlemlerini merkezi olarak yönetiyordu.
-    * XML teknolojileri, SQL sorguları ve JMS mesaj kuyruğu kullanarak SOAP/REST web servisleri geliştirdim ve test ettim.
-    * Ekip arkadaşlarına mentorluk ettim; kod birleştirme ve paketlemeyi yönettim, canlıya alma süreçlerine destek verdim.
+    * XML teknolojileri, SQL sorguları ve JMS mesaj kuyruğu kullanarak SOAP/REST web servisleri geliştirdim/test ettim.
+    * Ekip arkadaşlarına mentorluk ettim; kod birleştirmeyi/paketlemeyi yönettim, canlıya alma süreçlerine destek verdim.
     * Yapay zekâ odaklı bir hackathon’a katıldım; chatbot ve görüntü tanıma tabanlı bir mobil (Android) uygulama geliştirdim.
 
 ## Stajlar
@@ -69,8 +68,8 @@
       toplanan verileri görüntüleme ve Excel/PDF formatında dışa aktarma yeteneği ekledim.
 
 - Sistem Yöneticisi Stajyeri | [İzmir Büyükşehir Belediyesi](https://www.izmir.bel.tr) | İzmir, Türkiye | 06/2014 – 07/2014 | Ofis
-    * Sistem yöneticilerine; sunucu yönetimi, Active Directory (AD) kullanıcı hesapları, cihaz/yazıcı yönetimi ve güvenlik politikalarının (Group
-      Policy) uygulanması konularında Windows/Linux sunucuları kullanarak destek verdim.
+    * Sistem yöneticilerine, sunucu yönetimi, Active Directory (AD) kullanıcı hesapları, cihaz/yazıcı yönetimi ve güvenlik politikalarının (Group
+      Policy) uygulanması konularında Windows/Linux sunucuları üzerinde destek verdim.
 
 ## Eğitim
 
@@ -99,14 +98,15 @@
 - Gözlemlenebilirlik/İzleme: Prometheus, Grafana, Splunk
 - Araçlar: Git, Maven, Postman, Swagger, SoapUI, Unix/Linux Terminal
 - Yönetim: Jira, Confluence, Bitbucket, GitLab
-- Ek: Temporal, Lombok, Camel, AspectJ, Quartz, Python (PyTorch, NumPy, OpenCV, Matplotlib), Markdown
+- Veri Bilimi/ML: Python (PyTorch, NumPy, OpenCV, Matplotlib)
+- Diğer: Temporal, Lombok, AspectJ, Camel, Quartz, Markdown
 
 ## Diller
 
 - Türkçe: Anadil
 - İngilizce: İleri düzey/Akıcı (C1) – profesyonel çalışma yetkinliği
 
-## Hobiler ve İlgi Alanları
+## Hobiler/İlgi Alanları
 
 - Bisiklet
 - Video oyunları
