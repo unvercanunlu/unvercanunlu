@@ -1,153 +1,112 @@
 # Ünver Can Ünlü
 
-- Senior Software Engineer
-- Full-Stack (Java/Spring + React/Angular)
-- MSc in Computer Engineering
+- Kıdemli Yazılım Mühendisi
+- Full-Stack Geliştirici: Java/Spring ve React/Angular
+- Bilgisayar Mühendisliği Yüksek Lisans (MSc)
 
-### İletişim
+## İletişim
 
-- Konum: İzmir, Türkiye (AB içi taşınmaya açık)
+- Konum: İzmir, Türkiye (taşınmaya ve uzaktan çalışmaya açık)
 - E-posta: unvercanunlu [at] gmail [dot] com (tercih edilen iletişim kanalı)
 - Telefon: Talep üzerine paylaşılır
 - LinkedIn: [linkedin.com/in/unvercanunlu](https://www.linkedin.com/in/unvercanunlu)
 - GitHub: [github.com/unvercanunlu](https://github.com/unvercanunlu)
 
-### Özet
+## Özet
 
-- 8+ yıllık deneyime sahip, sistem tasarımıyla ilgilenen Senior Full-Stack Software Engineer. (Java backend tabanlı)
-- Sistem geçişleri (migration), modernizasyon, entegrasyon ve bulut tabanlı kurumsal projelerde çalıştım.
+- 8+ yıllık deneyime sahip, sistem tasarımına odaklanan Java Full-Stack Kıdemli Yazılım Mühendisi.
+- Sistem geçişleri (migration), modernizasyon, entegrasyon ve bulut tabanlı kurumsal projelerde çalışıyorum.
 - Farklı sektörlerde (ödeme, İK, bordro, telekom ve lojistik) yazılım geliştirme deneyimine sahibim.
-- Backend (Java, Spring/Spring Boot), middleware (Oracle, IBM) ve frontend (Angular, React, Vue) teknolojileri ile bulut çözümlerini kullanan
-  ölçeklenebilir full-stack uygulamalar geliştiriyorum.
-- Türkçe ve İngilizceyi akıcı şekilde kullanabiliyorum; Çevik (Agile) ve Test Odaklı Geliştirme (TDD) metodolojilerini uygulayan uluslararası
-  ekiplerde etkin bir şekilde çalışabiliyorum.
+- Backend (Java/Spring), frontend (Angular/React/Vue), veritabanı (SQL/NoSQL) ve middleware (Oracle/IBM) teknolojileri ile bulut çözümlerini
+  kullanarak ölçeklenebilir full-stack uygulamalar geliştiriyorum.
+- Tasarım desenleri (Design Patterns) ile SOLID, KISS, DRY ve Temiz Kod (Clean Code) prensiplerini uyguluyorum.
+- Çevik (Agile) ve Test Odaklı Geliştirme (TDD) metodolojilerini uygulayan ekiplerde etkin çalışıyorum.
 
-### İş Deneyimleri
+## İş Deneyimleri
 
-- Java Full-Stack Developer | [TCS](https://www.tcs.com) | Varşova, Polonya | 07/2023 – 04/2025 | Hibrit (Ofis + Uzaktan)
-    * Ticari kredi kartı ödemelerini içeren dosyaları işleyen eski bir sistemin modernizasyonunda görev aldım.
-    * daha güvenli, düşük gecikmeli (low-latency) ve yüksek işlem hacmine (throughput) sahip, güncel teknolojilerle müşteri taleplerini karşılayan
-      yeni bir sistemin geliştirilmesine ve teslimine katkı sağladım.
-    * Sorumluluklar: işlevsel doğrulama (functional validation), dokümantasyon, hata giderme, güvenlik güncellemeleri, özel metriklerin uygulanması,
-      Prometheus ve Grafana entegrasyonu, standart/özel metrikler üzerinde PromQL sorguları ile gösterge panelleri (dashboard) oluşturulması,
-      alarm/uyarı kurallarının yapılandırılması, test yazımı ve Spring Boot ile Temporal Workflow kullanarak mikroservis mimarisi tasarımı ve
-      geliştirilmesi.
+- Java Full-Stack Geliştirici | [TCS](https://www.tcs.com)  | Varşova, Polonya | 07/2023 – 04/2025 | Hibrit
+    * Ticari kredi kartı ödeme dosyalarını işleyen eski bir sistemin modernizasyonunda görev aldım: daha güvenli, düşük gecikmeli ve yüksek işlem
+      hacmine sahip, güncel teknolojilerle müşteri taleplerini karşılayan yeni bir sistemin geliştirilmesine ve teslimine katkı sağladım.
+    * Sorumluluklar: işlevsel doğrulama, dokümantasyon, hata giderme, güvenlik güncellemeleri, özel metriklerin uygulanması, metriklerin Prometheus
+      ile toplanması, standart/özel metrikler üzerinde PromQL sorguları ile anlamlandırıp Grafana’da gösterge panelleri oluşturma, alarm/uyarı
+      kurallarının yapılandırma, test yazımı ve Temporal ile mikroservis mimarisi tasarımı/geliştirme, felaket kurtarma (disaster recovery)
+      senaryolarının planlama.
 
-- Senior Software Engineer | [LTIMindtree](https://www.ltimindtree.com) | Kraków, Polonya | 11/2022 – 03/2023 | Hibrit (Ofis + Uzaktan)
-    * Dağıtık (distributed) sistemlerde optimizasyon ve performans iyileştirmeleri üzerine çalıştım.
-    * Kafka kullanan olay odaklı (event-driven) mikroservis mimarileri için tasarım desenleri (design patterns) üzerine Ar-Ge prototipleri
-      geliştirdim.
+- Kıdemli Yazılım Mühendisi | [LTIMindtree](https://www.ltimindtree.com) | Kraków, Polonya | 11/2022 – 03/2023 | Hibrit
+    * Kafka kullanarak olay odaklı (event-driven) mimariler için tasarım desenleri (design patterns) prototipleri geliştirdim.
 
-- Senior Software Engineer | [OBSS](https://obss.tech) | İstanbul, Türkiye | 05/2022 – 09/2022 | Uzaktan
-    * Java ve Spring Boot kullanarak, mikroservis mimarisinde en iyi uygulamalara (best practices) dayanan; eşzamanlılık (concurrency), veritabanı ve
-      verimlilik odaklı en iyi uygulamaları (best practices) içeren örnek projeler geliştirdim.
+- Kıdemli Yazılım Mühendisi | [OBSS](https://obss.tech) | İstanbul, Türkiye | 05/2022 – 09/2022 | Uzaktan
+    * Veritabanı performansını artırmaya yönelik en iyi uygulamaları (best practices) temel alan örnek projeler geliştirdim.
 
-- Java Full-Stack Developer | [LOGO](https://www.logo.com.tr) | İzmir, Türkiye | 12/2020 – 05/2022 | Hibrit (Ofis + Uzaktan)
-    * Bordro, vergi hesaplama, belge/rapor üretimi ile izin ve organizasyon yönetimi modüllerini içeren Java tabanlı full-stack web uygulamasının
-      geliştirilmesinde görev aldım.
-    * Spring Boot, Vaadin, AspectJ, PostgreSQL, MongoDB, Hibernate, Kafka, Docker, Kubernetes, Jenkins ve AWS kullanılarak geliştirilen mikroservis
-      mimarisindeki uygulamanın geliştirme ekibinde yer aldım.
-    * Yeni ekip arkadaşlarına/stajyerlere mentorluk yaptım; log izleme/yönetimi, canlıya alma/yayınlama (deployment) ve müşteri desteği (customer
-      support) sağladım.
-    * Nesnelerin İnterneti (IoT) odaklı bir hackathon'da; kontrol paneli (dashboard), uzaktan sensör takibi ve uzaktan kontrol/sulama özellikleri
-      içeren akıllı tarım (smart agriculture) sistemi geliştirdim. (.NET, React, DevExtreme, Arduino)
+- Java Full-Stack Geliştirici | [LOGO](https://www.logo.com.tr) | İzmir, Türkiye | 12/2020 – 05/2022 | Hibrit
+    * Bordro/vergi hesaplama, belge/rapor üretimi ile izin/organizasyon yönetimi modüllerini içeren Java tabanlı full-stack web uygulamasının
+      geliştirme ekibinde yer aldım. Stajyerlere mentorluk yaptım; log izleme ile canlıya alma (deployment) süreçlerinde görev aldım; müşteri desteği
+      sağladım.
+    * IoT odaklı bir hackathon’da; gösterge/kontrol paneli, uzaktan sensör takibi/sulama için akıllı tarım sistemi geliştirdim.
 
-- Full-Stack Developer | [CFM](https://www.cfm.com.tr) | İzmir, Türkiye | 08/2020 – 11/2020 | Ofis
-    * Cihazların uzaktan izlenmesi ve kontrolü için eski Nesnelerin İnterneti (IoT) sistemini modernize eden projeye katkı sağladım.
-    * Java/Spring Boot ve NoSQL ile backend; Angular ve DevExtreme ile frontend tarafında geliştirmeler yaptım.
-    * Kullanıcı profili (user profiles), gösterge/kontrol paneli (dashboard) ve raporlama modüllerinin geliştirilmesine katkıda bulundum.
-    * WebSocket ve SSE (Server-Sent Events) ile gerçek zamanlı bildirim (real-time notification) sistemi geliştirdim.
+- Full-Stack Geliştirici | [CFM](https://www.cfm.com.tr) | İzmir, Türkiye | 08/2020 – 11/2020 | Ofis
+    * Cihazların uzaktan izlenmesi/kontrolü için kullanılan eski IoT sistemini modernize eden projeye katkı sağladım.
+    * Kullanıcı profili, gösterge/kontrol paneli ve raporlama modüllerinin geliştirilmesine katkıda bulundum; WebSocket ve SSE (Server-Sent Events)
+      kullanarak gerçek zamanlı bildirim sistemi geliştirdim.
 
-- Backend Developer | [Caunos](https://www.caunos.com) | İzmir, Türkiye | 08/2019 – 07/2020 | Hibrit (Ofis + Uzaktan)
-    * Çevrimiçi çeviri servisi ve lojistik raporlama olmak üzere iki ayrı projede Java, MySQL ve Spring/Spring Boot ile backend geliştirme ekibinde
-      yer aldım.
-    * Toplu veri içe/dışa aktarma (bulk import/export) ve yığın işleme (batch processing) için REST servisleri ve zamanlanmış görevler (scheduled
-      jobs) geliştirdim.
-    * Servlets ile gösterge/kontrol paneli (dashboard) geliştirdim; SQL ve HQL sorgularını optimize ederek performansı artırdım.
-    * Tasarım desenleri (design patterns), SOLID, KISS, DRY ve Temiz Kod (Clean Code) prensiplerini uyguladım; ayrıca test odaklı geliştirme (TDD)
-      pratiklerini kullandım.
+- Backend Geliştirici | [Caunos](https://www.caunos.com) | İzmir, Türkiye | 08/2019 – 07/2020 | Hibrit
+    * Çeviri servisi ve lojistik raporlama olmak üzere iki ayrı projede backend geliştirme ekibinde yer aldım.
+    * Toplu veri içe/dışa aktarma, yığın işleme, REST API, zamanlanmış görevler/isler ve gösterge/kontrol paneli geliştirdim; SQL/HQL sorgularını
+      optimize ederek performansı artırdım.
 
-- Integration Developer | [Accenture](https://www.accenture.com) | İzmir, Türkiye | 01/2017 – 07/2019 | Ofis
-    * Bir telekom şirketi için yüksek hacimli servis odaklı (SOA) mimariye sahip orta katman (middleware) uygulamasının geliştirilmesinde görev aldım.
-    * Bu uygulama, web servisleri arası mesajların kayıt altına alınması (logging), kimlik ve rol yetkilendirmesi (authentication/authorization),
-      isteğin/verinin geçerlilik kontrolü (validation), kabul edilen/istenen formata dönüştürülmesi (transformation) ve doğru servise
-      yönlendirilmesi (routing) işlemlerini merkezi olarak yönetiyordu.
-    * XML teknolojileri (XSD, WSDL, XSLT, XQuery, BPEL), SQL sorguları ve JMS kuyruğu (message queue) kullanarak SOAP/REST web servisleri geliştirdim
-      ve test ettim.
-    * Ekip arkadaşlarına mentorluk yaptım; kod birleştirme/entegrasyonu (merging) ve paketlemeyi (packaging) yönettim, canlıya alma/yayınlama
-      (deployment) süreçlerine destek verdim.
-    * Yapay zekâ (AI) odaklı bir hackathon’a katıldım; chatbot ve görüntü tanıma (Computer Vision/Image Recognition) tabanlı bir mobil (Android)
-      uygulama geliştirdim.
+- Entegrasyon Geliştirici | [Accenture](https://www.accenture.com) | İzmir, Türkiye | 01/2017 – 07/2019 | Ofis
+    * Bir telekom şirketi için yüksek hacimli servis odaklı mimariye sahip orta katman geliştirme ekibinde görev aldım.
+    * Bu uygulama, web servisleri arası mesajların kayıt altına alınması, kimlik doğrulama/yetkilendirme, isteğin/verinin doğrulanması, uygun formata
+      dönüştürülmesi ve doğru servise yönlendirilmesi işlemlerini merkezi olarak yönetiyordu.
+    * XML teknolojileri, SQL sorguları ve JMS mesaj kuyruğu kullanarak SOAP/REST web servisleri geliştirdim ve test ettim.
+    * Ekip arkadaşlarına mentorluk ettim; kod birleştirme ve paketlemeyi yönettim, canlıya alma süreçlerine destek verdim.
+    * Yapay zekâ odaklı bir hackathon’a katıldım; chatbot ve görüntü tanıma tabanlı bir mobil (Android) uygulama geliştirdim.
 
-### Stajlar
+## Stajlar
 
 - Java Yazılım Geliştirici Stajyeri | [Egebis](http://www.egebis.com) | İzmir, Türkiye | 01/2016 – 02/2016 | Ofis
-    * Java CLI uygulaması geliştirerek web tarayıcı (web crawler) veya REST API üzerinden e-ticaret verilerini topladım ve JavaFX kullanarak broşür
-      ürün görsellerini yakaladım.
-    * Toplanan verileri görüntüleyen ve Excel ile PDF’e dışa aktarabilen (export) Apache Cordova kullanan bir çoklu platform (cross-platform)
-      uygulaması geliştirdim.
+    * Java CLI uygulaması geliştirdim: Web Crawler/REST API üzerinden e-ticaret sitelerinden ürün verilerini/görsellerini JavaFX ile topladım;
+      toplanan verileri görüntüleme ve Excel/PDF formatında dışa aktarma yeteneği ekledim.
 
 - Sistem Yöneticisi Stajyeri | [İzmir Büyükşehir Belediyesi](https://www.izmir.bel.tr) | İzmir, Türkiye | 06/2014 – 07/2014 | Ofis
-    * Sistem yöneticilerine; sunucu yönetimi (server), alan adı kullanıcı hesapları (domain), cihaz yönetimi (device/printer) ve güvenlik
-      politikalarının (group policies) uygulanması konularında destek verdim.
+    * Sistem yöneticilerine; sunucu yönetimi, Active Directory (AD) kullanıcı hesapları, cihaz/yazıcı yönetimi ve güvenlik politikalarının (Group
+      Policy) uygulanması konularında Windows/Linux sunucuları kullanarak destek verdim.
 
-### Eğitim
+## Eğitim
 
 - Yüksek Lisans (MSc) | Bilgisayar Mühendisliği | [İzmir Yüksek Teknoloji Enstitüsü](https://iyte.edu.tr) (İYTE) | 2018 – 2021
-    * Odaklanılan alanlar:
-        * Yapay Sinir Ağları (Neural Networks)
-        * Derin Öğrenme (Deep Learning)
-        * Görüntü İşleme (Computer Vision & Image Processing)
-        * Nesne Takibi (Object Tracking)
+    * Odak alanları: Yapay Sinir Ağları, Derin Öğrenme, Görüntü İşleme, Nesne Takibi
     * Tez: [Nesne Takibinde Kullanılan Hareket-Yönlendirmeli Siyam Ağlarında Önceliklendirilmiş Pencereler ile İyileştirme](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=_F5QEpayDXGqGZlp9XiFtHc6hV73AWqDWZV-PAGAelqQTgSnY1psMEUyArZs_zky)
       (Improvement on Motion-Guided Siamese Object Tracking Networks Using Prioritized Windows)
     * Not Ortalaması: 3.43/4.00 (GPA)
 
 - Lisans (BSc) | Bilgisayar Mühendisliği | [İzmir Yüksek Teknoloji Enstitüsü](https://iyte.edu.tr) (İYTE) | 2011 – 2016
-    * Odaklanılan alanlar:
-        * Mobil Uygulama Geliştirme (Mobile Application Development)
-        * Bulut Tabanlı Uygulama Geliştirme (Cloud-based Application Development)
-        * Konum Tabanlı Servisler (Location-based Services)
+    * Odak alanları: Mobil Uygulama Geliştirme, Bulut Tabanlı Uygulama Geliştirme, Konum Tabanlı Servisler
     * Tez: Konum ve Zaman Tabanlı Not Alma ve Görev Kaydı Tutma Mobil Uygulaması (Location and Time-Based To-Do Mobile Application)
     * Not Ortalaması: 2.59/4.00 (GPA)
-    * Değişim Programı (Erasmus+): [Tomas Bata University](https://www.utb.cz) (Zlín, Çekya), 2015
+    * Değişim Programı (Erasmus+): [Tomas Bata Üniversitesi](https://www.utb.cz) (UTB), Zlín, Çekya (2015)
 
-### Teknik Beceriler
+## Teknik Beceriler
 
-- Backend:
-    * Java (17+), Spring (Boot, Data, Web, MVC, Cloud, Security, AOP, Batch, Test, Actuator)
-    * JPA/Hibernate, JDBC, Temporal Workflow, Apache Camel
-    * Lombok, Quartz, AspectJ
-- Frontend:
-    * Angular, React, Vue
-    * HTML, CSS, JavaScript (ES6)/TypeScript
-    * Vaadin, DevExtreme, Bootstrap, jQuery
-- Veritabanları:
-    * PostgreSQL, Oracle DB, MySQL, MongoDB
-    * SQL, HQL, NoSQL
-- DevOps ve Bulut:
-    * Docker, Kubernetes, Jenkins (CI/CD pipeline)
-    * AWS (ECS, S3, CloudWatch), şirket içi/yerinde (on-premise) çözümler
-- Mesajlaşma ve İletişim:
-    * REST API, SOAP, gRPC, WebSocket, HTTP
-    * Apache Kafka, RabbitMQ, JMS
-    * JSON, Avro, Protobuf
-- Middleware:
-    * Oracle Service Bus, Oracle SOA Suite, IBM DataPower
-    * XML (XSLT, XQuery, XSD, WSDL, BPEL)
+- Backend: Java (17+), Spring (Boot, Data, Web, MVC, Cloud, Security, Batch, Test, Actuator), JPA/Hibernate, JDBC
+- Frontend: Angular, React, Vue, HTML, CSS, JavaScript (ES6)/TypeScript, Vaadin, DevExtreme, Bootstrap, jQuery
+- Veritabanları: PostgreSQL, Oracle DB, MySQL, MongoDB, SQL, HQL, NoSQL
+- DevOps/Bulut: Docker, Kubernetes, Jenkins (CI/CD pipeline), AWS (ECS, S3, CloudWatch), şirket içi çözümler
+- Mesajlaşma/İletişim: REST API, SOAP, gRPC, WebSocket, HTTP, Kafka, RabbitMQ, JMS, JSON, Avro, Protobuf
+- Middleware: Oracle Service Bus, Oracle SOA Suite, IBM DataPower, XML (XSLT, XQuery, XSD, WSDL, BPEL)
 - Test: JUnit, Mockito, JaCoCo, TestContainers
-- Kod Kalitesi ve Güvenlik: SonarQube, Sonatype, Checkmarx
-- Gözlemlenebilirlik ve İzleme: Prometheus, Grafana, Splunk
+- Kalite/Güvenlik: SonarQube, Sonatype, Checkmarx
+- Gözlemlenebilirlik/İzleme: Prometheus, Grafana, Splunk
 - Araçlar: Git, Maven, Postman, Swagger, SoapUI, Unix/Linux Terminal
 - Yönetim: Jira, Confluence, Bitbucket, GitLab
-- Ek Beceriler: Python (PyTorch, NumPy, OpenCV, Matplotlib), Markdown
+- Ek: Temporal, Lombok, Camel, AspectJ, Quartz, Python (PyTorch, NumPy, OpenCV, Matplotlib), Markdown
 
-### Diller
+## Diller
 
 - Türkçe: Anadil
-- İngilizce: İleri düzey (C1) – profesyonel çalışma yetkinliği
+- İngilizce: İleri düzey/Akıcı (C1) – profesyonel çalışma yetkinliği
 
-### Hobiler ve İlgi Alanları
+## Hobiler ve İlgi Alanları
 
 - Bisiklet
 - Video oyunları
