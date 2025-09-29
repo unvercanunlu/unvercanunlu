@@ -69,8 +69,7 @@
 - Java Software Developer Intern | [Egebis](http://www.egebis.com) | Izmir, Turkey | 01/2016 – 02/2016 | Onsite
     * Developed a Java CLI application scheduled to run as a background job that collected product/price data from e-commerce/retail websites via a
       web crawler/REST APIs and captured product images with JavaFX.
-    * Supported system administrators in server administration; managed Active Directory (AD) user accounts and devices/printers; applied Group
-      Policies on Windows/Linux servers; configured router/firewall network settings.
+    * Displayed the collected data in a cross-platform mobile/web app built with jQuery and Apache Cordova; added options to export the data to Excel/PDF.
 
 - System Administrator Intern | [Izmir Metropolitan Municipality](https://www.izmir.bel.tr) | Izmir, Turkey | 06/2014 – 07/2014 | Onsite
     * Supported system administrators in server management including domain name (Active Directory), user/device management, and Group Policies on
