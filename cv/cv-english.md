@@ -16,18 +16,14 @@
 - Senior Full-Stack Software Engineer (Java-based) with 8+ years of experience, focused on system design.
 - Worked on cloud-based enterprise projects involving system migrations, modernization, and integration.
 - Experience across payments, HR, payroll, telecom, and logistics domains.
-- Build scalable full-stack applications using backend (Java/Spring), frontend (Angular/React/Vue), databases (SQL/NoSQL), middleware (Oracle/IBM)
-  technologies and cloud solutions.
+- Build scalable full-stack applications using backend (Java/Spring), frontend (Angular/React/Vue), databases (SQL/NoSQL), middleware (Oracle/IBM) technologies and cloud solutions.
 - Applied Design Patterns, SOLID, KISS, DRY, and Clean Code; effective in teams practicing Agile/Scrum and TDD.
 
 ## Work Experience
 
 - Java Full-Stack Developer | [TCS](https://www.tcs.com)  | Warsaw, Poland | 07/2023 – 04/2025 | Hybrid
-    * Contributed to the modernization of a legacy system that processed commercial credit card payment files; helped deliver a more secure,
-      lower-latency, higher-throughput system to meet client requirements.
-    * Responsibilities: functional validation, documentation, bug fixing, security updates, and test development; implemented custom metrics and
-      collected metrics in Prometheus and analyzed them with PromQL, built Grafana dashboards, and configured alert rules; designed/implemented
-      microservices with Spring Boot and Temporal Workflow; performed technical analysis and planning for possible disaster recovery scenarios.
+    * Contributed to the modernization of a legacy system that processed commercial credit card payment files; helped deliver a more secure, lower-latency, higher-throughput system to meet client requirements.
+    * Responsibilities: functional validation, documentation, bug fixing, security updates, and test development; implemented custom metrics and collected metrics in Prometheus and analyzed them with PromQL, built Grafana dashboards, and configured alert rules; designed/implemented microservices with Spring Boot and Temporal Workflow; performed technical analysis and planning for possible disaster recovery scenarios.
 
 - Senior Software Engineer | [LTIMindtree](https://www.ltimindtree.com) | Kraków, Poland | 11/2022 – 03/2023 | Hybrid
     * Built R&D prototypes exploring design patterns for Kafka-based event-driven microservice architectures.
@@ -45,35 +41,27 @@
 
 - Full-Stack Developer | [CFM](https://www.cfm.com.tr) | Izmir, Turkey | 08/2020 – 11/2020 | Onsite
     * Contributed to modernization of a legacy IoT system for centralized monitoring/control of refrigerator controller units.
-    * Implemented the user profile module; contributed to the dashboard pages for data/report visualization; built a real-time notification system
-      using WebSocket and Server-Sent Events (SSE).
+    * Implemented the user profile module; contributed to the dashboard pages for data/report visualization; built a real-time notification system using WebSocket and Server-Sent Events (SSE).
 
 - Backend Developer | [Caunos](https://www.caunos.com) | Izmir, Turkey | 08/2019 – 07/2020 | Hybrid
     * Served on the backend development team across two projects: an online translation service and logistics reporting.
-    * Developed REST APIs and scheduled jobs for bulk import/export and batch processing; built an admin dashboard; implemented app
-      authentication/authorization; performed optimization on SQL/HQL queries to improve performance.
+    * Developed REST APIs and scheduled jobs for bulk import/export and batch processing; built an admin dashboard; implemented app authentication/authorization; performed optimization on SQL/HQL queries to improve performance.
 
 - Integration Developer | [Accenture](https://www.accenture.com) | Izmir, Turkey | 01/2017 – 07/2019 | Onsite
     * Contributed to a high-throughput Service-Oriented Architecture (SOA) middleware app for a telecom company.
-    * The application centrally handled message logging across the SOAP/REST web services, authentication/authorization, request/data validation,
-      transforming/mapping data to the accepted formats of the target SOAP/REST web services, and routing/broadcasting messages to the SOAP/REST web
-      services.
-    * Developed/tested SOAP/REST web services using XML technologies (XSD, WSDL, XSLT, XQuery, BPEL) and SoapUI; wrote SQL queries; integrated with
-      JMS queues.
+    * The application centrally handled message logging across the SOAP/REST web services, authentication/authorization, request/data validation, transforming/mapping data to the accepted formats of the target SOAP/REST web services, and routing/broadcasting messages to the SOAP/REST web services.
+    * Developed/tested SOAP/REST web services using XML technologies (XSD, WSDL, XSLT, XQuery, BPEL) and SoapUI; wrote SQL queries; integrated with JMS queues.
     * Mentored new teammates; managed code merging; prepared deployable packages; assisted with deployments.
-    * Participated in an AI-focused hackathon; built a mobile (Android) app powered by IBM Watson chatbot and image recognition cloud services to
-      detect possible allergens from images.
+    * Participated in an AI-focused hackathon; built a mobile (Android) app powered by IBM Watson chatbot and image recognition cloud services to detect possible allergens from images.
 
 ## Internships
 
 - Java Software Developer Intern | [Egebis](http://www.egebis.com) | Izmir, Turkey | 01/2016 – 02/2016 | Onsite
-    * Developed a Java CLI application scheduled to run as a background job that collected product/price data from e-commerce/retail websites via a
-      web crawler/REST APIs and captured product images with JavaFX.
+    * Developed a Java CLI application scheduled to run as a background job that collected product/price data from e-commerce/retail websites via a web crawler/REST APIs and captured product images with JavaFX.
     * Displayed the collected data in a cross-platform mobile/web app built with jQuery and Apache Cordova; added options to export the data to Excel/PDF.
 
 - System Administrator Intern | [Izmir Metropolitan Municipality](https://www.izmir.bel.tr) | Izmir, Turkey | 06/2014 – 07/2014 | Onsite
-    * Supported system administrators in server management including domain name (Active Directory), user/device management, and Group Policies on
-      Windows/Linux servers; configured SSL certificate and router/firewall network settings.
+    * Supported system administrators in server management including domain name (Active Directory), user/device management, and Group Policies on Windows/Linux servers; configured SSL certificate and router/firewall network settings.
 
 ## Education
 
