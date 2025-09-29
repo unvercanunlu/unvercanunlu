@@ -1,15 +1,15 @@
 # Ünver Can Ünlü
 
-* Senior Software Engineer
-* Full-Stack (Java/Spring + React/Angular)
-* MSc in Computer Engineering
+- Senior Software Engineer
+- Full-Stack (Java/Spring + React/Angular)
+- MSc in Computer Engineering
 
 ### Contact
 
-* Location: Izmir, Turkey (open to relocation within the EU)
-* Email: unvercanunlu [at] gmail [dot] com (preferred contact method)
-* LinkedIn: [linkedin.com/in/unvercanunlu](https://www.linkedin.com/in/unvercanunlu)
-* GitHub: [github.com/unvercanunlu](https://github.com/unvercanunlu)
+- Location: Izmir, Turkey (open to relocation/remote work)
+- Email: unvercanunlu [at] gmail [dot] com (preferred contact method)
+- LinkedIn: [linkedin.com/in/unvercanunlu](https://www.linkedin.com/in/unvercanunlu)
+- GitHub: [github.com/unvercanunlu](https://github.com/unvercanunlu)
 
 ## Summary
 
@@ -27,47 +27,54 @@
       lower-latency, higher-throughput system to meet client requirements.
     * Responsibilities: functional validation, documentation, bug fixing, security updates, and test development; implemented custom metrics and
       collected metrics in Prometheus and analyzed them with PromQL, built Grafana dashboards, and configured alert rules; designed/implemented
-      microservices with Spring Boot and Temporal Workflow; planned disaster recovery (DR) scenarios.
+      microservices with Spring Boot and Temporal Workflow; performed technical analysis and planning for possible disaster recovery scenarios.
 
 - Senior Software Engineer | [LTIMindtree](https://www.ltimindtree.com) | Kraków, Poland | 11/2022 – 03/2023 | Hybrid
-    * Developed R&D prototypes exploring design patterns for event-driven microservice architectures using Kafka.
+    * Built R&D prototypes exploring design patterns for Kafka-based event-driven microservice architectures.
+    * Focused on system design concepts to improve availability/consistency and meet diverse business requirements.
 
 - Senior Software Engineer | [OBSS](https://obss.tech) | Istanbul, Turkey | 05/2022 – 09/2022 | Remote
-    * Developed example projects based on best practices for database performance.
+    * Developed example projects demonstrating best practices for scaling databases for read/write workloads.
+    * Studied and implemented data structures/algorithms to improve data-processing efficiency/performance.
 
 - Java Full-Stack Developer | [LOGO](https://www.logo.com.tr) | Izmir, Turkey | 12/2020 – 05/2022 | Hybrid
-    * Contributed to a Java-based full-stack web application for payroll/tax calculation, document/report generation, and leave/organization
-      management.
+    * Contributed to a Java-based full-stack SaaS app containing modules for payroll/bonus/tax calculation, currency conversion, document/report
+      generation, and leave/organization management.
     * Mentored interns; handled log monitoring/management, assisted with deployments, and provided customer support.
-    * Built a smart agriculture system in an IoT-focused hackathon, including a dashboard, remote sensor monitoring/irrigation.
+    * Built a smart agriculture app in an IoT-focused hackathon, including dashboard, remote sensor monitoring/irrigation.
 
 - Full-Stack Developer | [CFM](https://www.cfm.com.tr) | Izmir, Turkey | 08/2020 – 11/2020 | Onsite
-    * Contributed to modernizing a legacy IoT system used for remote monitoring/control of devices.
-    * Contributed to the development of user profile, dashboard, and reporting modules; built a real-time notification system using
-      WebSocket and Server-Sent Events (SSE).
+    * Contributed to modernization of a legacy IoT system for centralized monitoring/control of refrigerator controller units.
+    * Implemented the user profile module; contributed to the dashboard pages for data/report visualization; built a real-time notification system
+      using WebSocket and Server-Sent Events (SSE).
 
 - Backend Developer | [Caunos](https://www.caunos.com) | Izmir, Turkey | 08/2019 – 07/2020 | Hybrid
-    * Served on the backend team across two projects: an online translation service and logistics reporting.
-    * Developed REST API and scheduled jobs for bulk import/export and batch processing; built a dashboard; optimized SQL and HQL queries to improve
-      performance.
+    * Served on the backend development team across two projects: an online translation service and logistics reporting.
+    * Developed REST APIs and scheduled jobs for bulk import/export and batch processing; built an admin dashboard; implemented app
+      authentication/authorization; performed optimization on SQL/HQL queries to improve performance.
 
 - Integration Developer | [Accenture](https://www.accenture.com) | Izmir, Turkey | 01/2017 – 07/2019 | Onsite
-    * Contributed to a high-throughput Service-Oriented Architecture (SOA) middleware application for a telecom company.
-    * The application centrally handled message logging across web services, authentication/authorization, request/data validation, transformation to
-      accepted formats, and routing to the correct service.
-    * Developed/tested SOAP/REST web services using XML technologies, SQL queries, and JMS queues.
-    * Mentored teammates; managed code merging and packaging; assisted with deployments.
-    * Participated in an AI-focused hackathon; built a mobile (Android) app powered by a chatbot and computer vision.
+    * Contributed to a high-throughput Service-Oriented Architecture (SOA) middleware app for a telecom company.
+    * The application centrally handled message logging across the SOAP/REST web services, authentication/authorization, request/data validation,
+      transforming/mapping data to the accepted formats of the target SOAP/REST web services, and routing/broadcasting messages to the SOAP/REST web
+      services.
+    * Developed/tested SOAP/REST web services using XML technologies (XSD, WSDL, XSLT, XQuery, BPEL) and SoapUI; wrote SQL queries; integrated with
+      JMS queues.
+    * Mentored new teammates; managed code merging; prepared deployable packages; assisted with deployments.
+    * Participated in an AI-focused hackathon; built a mobile (Android) app powered by IBM Watson chatbot and image recognition cloud services to
+      detect possible allergens from images.
 
 ## Internships
 
 - Java Software Developer Intern | [Egebis](http://www.egebis.com) | Izmir, Turkey | 01/2016 – 02/2016 | Onsite
-    * Developed a Java CLI application: collected product/price data from e-commerce sites via Web Crawler/REST API and captured product images with
-      JavaFX; added data viewing and export to Excel/PDF.
+    * Developed a Java CLI application scheduled to run as a background job that collected product/price data from e-commerce/retail websites via a
+      web crawler/REST APIs and captured product images with JavaFX.
+    * Supported system administrators in server administration; managed Active Directory (AD) user accounts and devices/printers; applied Group
+      Policies on Windows/Linux servers; configured router/firewall network settings.
 
 - System Administrator Intern | [Izmir Metropolitan Municipality](https://www.izmir.bel.tr) | Izmir, Turkey | 06/2014 – 07/2014 | Onsite
-    * Supported system administrators with server administration, Active Directory (AD) user accounts, device/printer management, and applying Group
-      Policies on Windows/Linux servers.
+    * Supported system administrators in server management including domain name (Active Directory), user/device management, and Group Policies on
+      Windows/Linux servers; configured SSL certificate and router/firewall network settings.
 
 ## Education
 
@@ -88,15 +95,16 @@
 - Frontend: Angular, React, Vue, HTML, CSS, JavaScript (ES6)/TypeScript, Vaadin, DevExtreme, Bootstrap, jQuery
 - Databases: PostgreSQL, Oracle DB, MySQL, MongoDB, SQL, HQL, NoSQL
 - DevOps/Cloud: Docker, Kubernetes, Jenkins (CI/CD pipeline), AWS (ECS, S3, CloudWatch), on-premises solutions
-- Messaging/Communication: REST API, SOAP, gRPC, WebSocket, HTTP, Kafka, RabbitMQ, JMS, JSON, Avro, Protobuf
+- Messaging/Communication: REST, SOAP, gRPC, WebSocket, HTTP, Kafka, RabbitMQ, JMS, JSON, Avro, Protobuf
 - Middleware: Oracle Service Bus, Oracle SOA Suite, IBM DataPower, XML (XSLT, XQuery, XSD, WSDL, BPEL)
-- Testing: JUnit, Mockito, JaCoCo, TestContainers
+- Testing: JUnit, Mockito, JaCoCo, Testcontainers
 - Code Quality/Security: SonarQube, Sonatype, Checkmarx
 - Observability/Monitoring: Prometheus, Grafana, Splunk
-- Tools: Git, Maven, Postman, Swagger, SoapUI, Unix/Linux Terminal
+- Tools: Git, Maven, Postman, OpenAPI/Swagger, SoapUI, Unix/Linux Terminal
 - Collaboration: Jira, Confluence, Bitbucket, GitLab
 - Data Science/ML: Python (PyTorch, NumPy, OpenCV, Matplotlib)
-- Additional: Temporal, Lombok, AspectJ, Camel, Quartz, Markdown
+- Server: Windows Server (Active Directory/Group Policy), Ubuntu Server
+- Additional: Temporal Workflow, Lombok, AspectJ, Apache Camel, Quartz, Markdown, Apache Cordova
 
 ## Languages
 
