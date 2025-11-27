@@ -37,10 +37,6 @@
     * Yeni özelliklerin geliştirilmesi, hata bulmaya/gidermeye (bug fixing) ek olarak; stajyerlere mentorluk ettim, log izleme (monitoring) ile canlıya alma (deployment) süreçlerinde görev aldım, müşteri desteği (customer support) sağladım.
     * IoT odaklı bir hackathon’da; kontrol/gösterge paneli (dashboard), uzaktan sensör takibi ve sulama (irrigation) için akıllı tarım (smart agriculture) sistemi geliştirdim.
 
-- Full-Stack Geliştirici | [CFM](https://www.cfm.com.tr) | İzmir, Türkiye | 08/2020 – 11/2020 | Ofis
-    * Soğuk depolama (cold storage) kontrol birimlerini merkezi (centralized) izleme (monitoring) ve kontrolü için kullanılan eskimiş bir IoT sistemini modernize eden projeye katkı sağladım.
-    * Kullanıcı profili (user profile), raporlama (reporting), veri görselleştirmesi (data visualization) ve kontrol/gösterge paneli (dashboard) modüllerine katkıda bulundum; WebSocket ve SSE (Server-Sent Events) kullanarak gerçek zamanlı bildirim (real-time notification) sistemi geliştirdim.
-
 - Backend Geliştirici | [Caunos](https://www.caunos.com) | İzmir, Türkiye | 08/2019 – 07/2020 | Hibrit
     * İki ayrı projede backend geliştirme ekibinde yer aldım: çeviri servisi (online translation) ve lojistik raporlama.
     * Toplu veri içe/dışa aktarma (data import/export), veriyi doğrulama (data validation), yığın işleme (batch processing), REST API’ler, zamanlanmış görevler  (scheduled jobs), kimlik doğrulama ve yetkilendirme (authentication/authorization) mekanizmasını ve yönetici panelini (admin dashboard) geliştirdim; SQL/HQL veritabanı sorgularında optimizasyon (query optimization) yaptım.
