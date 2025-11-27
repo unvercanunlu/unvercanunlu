@@ -38,10 +38,6 @@
     * Mentored interns; handled log monitoring/management, assisted with deployments, and provided customer support.
     * Built a smart agriculture app in an IoT-focused hackathon, including dashboard, remote sensor monitoring/irrigation.
 
-- Full-Stack Developer | [CFM](https://www.cfm.com.tr) | Izmir, Turkey | 08/2020 – 11/2020 | Onsite
-    * Contributed to modernization of a legacy IoT system for centralized monitoring/control of refrigerator controller units.
-    * Implemented the user profile module; contributed to the dashboard pages for data/report visualization; built a real-time notification system using WebSocket and Server-Sent Events (SSE).
-
 - Backend Developer | [Caunos](https://www.caunos.com) | Izmir, Turkey | 08/2019 – 07/2020 | Hybrid
     * Served on the backend development team across two projects: an online translation service and logistics reporting.
     * Developed REST APIs and scheduled jobs for bulk import/export and batch processing; built an admin dashboard; implemented app authentication/authorization; performed optimization on SQL/HQL queries to improve performance.
